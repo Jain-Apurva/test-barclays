@@ -1,0 +1,22 @@
+
+.program {
+    cursor: pointer;
+}
+
+.project {
+    margin-left: 25px;
+    display: none
+}
+
+.release {
+    margin-left:35px;
+    display: none;
+}
+
+.project.active {
+    display: block;
+}
+
+.release.active {
+    display: block;
+}
